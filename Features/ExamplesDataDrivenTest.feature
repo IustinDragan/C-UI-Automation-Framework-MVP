@@ -1,6 +1,6 @@
 ﻿Feature: Examples Data Driven Test
 
-A short summary of the feature
+Search for english speeches channel on Youtube
 
 @EnglishSpeechesTag
 Scenario Outline: Examples Data Driven Test

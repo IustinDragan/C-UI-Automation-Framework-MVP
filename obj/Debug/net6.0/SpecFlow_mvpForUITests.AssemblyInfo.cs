@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpecFlow_mvpForUITests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5db9065f7be79da69fd7c55d4e7de86f5abac9e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpecFlow_mvpForUITests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpecFlow_mvpForUITests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

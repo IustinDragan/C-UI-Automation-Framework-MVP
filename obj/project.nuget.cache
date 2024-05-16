@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t+J/+FKxTYKi37J31jF7QvqpZ2g4wz+lZJV+d0j1XQbJBkZjiZpssFqk+ss2F+ENw3ot+1A5jbbqiFbNhA7nnw==",
+  "dgSpecHash": "Hn5Yaopdbyh/X1yqC947hC4OsEJRvheHzIYhxCV4z0c6jBP2R3MV7qFSXNtKB1ngvhY0o7SnzU1FtSwBEoogMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Iustin\\source\\repos\\SpecFlow_mvpForUITests\\SpecFlow_mvpForUITests.csproj",
+  "projectFilePath": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\SpecFlow_mvpForUITests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Iustin\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Iustin\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
