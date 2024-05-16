@@ -1,6 +1,6 @@
 ﻿Feature: Page Object Model
 
-Search EnglishSpeechesTag in youtube
+Search EnglishSpeeches in youtube
 
 @EnglishSpeechesTag
 Scenario: Page Object Model

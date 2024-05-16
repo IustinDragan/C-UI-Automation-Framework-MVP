@@ -10835,11 +10835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Iustin\\source\\repos\\SpecFlow_mvpForUITests\\SpecFlow_mvpForUITests.csproj",
+      "projectUniqueName": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\SpecFlow_mvpForUITests.csproj",
       "projectName": "SpecFlow_mvpForUITests",
-      "projectPath": "C:\\Users\\Iustin\\source\\repos\\SpecFlow_mvpForUITests\\SpecFlow_mvpForUITests.csproj",
+      "projectPath": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\SpecFlow_mvpForUITests.csproj",
       "packagesPath": "C:\\Users\\Iustin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Iustin\\source\\repos\\SpecFlow_mvpForUITests\\obj\\",
+      "outputPath": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Iustin\\AppData\\Roaming\\NuGet\\NuGet.Config",
