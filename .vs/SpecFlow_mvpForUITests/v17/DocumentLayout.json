@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\specflow_mvpforuitests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:specflow_mvpforuitests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\pageobject\\resultpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:pageobject\\resultpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,40 +15,12 @@
       "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:stepdefinitions\\pageobjectmodelstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\features\\pageobjectmodel.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:features\\pageobjectmodel.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\features\\youtubesearchfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:features\\youtubesearchfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\pageobject\\channelpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:pageobject\\channelpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\stepdefinitions\\youtubesearchfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:stepdefinitions\\youtubesearchfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\features\\examplesdatadriventest.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:features\\examplesdatadriventest.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\stepdefinitions\\datatabledatadriventeststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:stepdefinitions\\datatabledatadriventeststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\stepdefinitions\\datadriventeststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:stepdefinitions\\datadriventeststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\stepdefinitions\\examplesdatadriventeststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:stepdefinitions\\examplesdatadriventeststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\features\\datatabledatadriventesting.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:features\\datatabledatadriventesting.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\stepdefinitions\\youtubesearchfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:stepdefinitions\\youtubesearchfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\features\\datadriventest.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -63,16 +31,48 @@
       "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\utility\\extentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:utility\\extentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\stepdefinitions\\datatabledatadriventeststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:stepdefinitions\\datatabledatadriventeststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\pageobject\\channelpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:pageobject\\channelpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\stepdefinitions\\examplesdatadriventeststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:stepdefinitions\\examplesdatadriventeststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\features\\pageobjectmodel.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:features\\pageobjectmodel.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\features\\youtubesearchfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:features\\youtubesearchfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\features\\examplesdatadriventest.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:features\\examplesdatadriventest.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\features\\datatabledatadriventesting.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:features\\datatabledatadriventesting.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|c:\\users\\iustin\\source\\repos\\c-ui-automation-framework-mvp\\specflow_mvpforuitests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0605C2D3-C39A-4F67-A829-C920447FA626}|SpecFlow_mvpForUITests.csproj|solutionrelative:specflow_mvpforuitests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,169 +97,21 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ChannelPage.cs",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\PageObject\\ChannelPage.cs",
-              "RelativeDocumentMoniker": "PageObject\\ChannelPage.cs",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\PageObject\\ChannelPage.cs",
-              "RelativeToolTip": "PageObject\\ChannelPage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T05:20:00.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResultPage.cs",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\PageObject\\ResultPage.cs",
-              "RelativeDocumentMoniker": "PageObject\\ResultPage.cs",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\PageObject\\ResultPage.cs",
-              "RelativeToolTip": "PageObject\\ResultPage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T05:19:47.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SearchPage.cs",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\PageObject\\SearchPage.cs",
-              "RelativeDocumentMoniker": "PageObject\\SearchPage.cs",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\PageObject\\SearchPage.cs",
-              "RelativeToolTip": "PageObject\\SearchPage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T05:17:17.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SpecFlow_mvpForUITests.csproj",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\SpecFlow_mvpForUITests.csproj",
-              "RelativeDocumentMoniker": "SpecFlow_mvpForUITests.csproj",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\SpecFlow_mvpForUITests.csproj",
-              "RelativeToolTip": "SpecFlow_mvpForUITests.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-16T05:16:31.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PageObjectModelStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\PageObjectModelStepDefinitions.cs",
-              "RelativeDocumentMoniker": "StepDefinitions\\PageObjectModelStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\PageObjectModelStepDefinitions.cs",
-              "RelativeToolTip": "StepDefinitions\\PageObjectModelStepDefinitions.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowCEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T05:13:49.515Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PageObjectModel.feature",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\PageObjectModel.feature",
-              "RelativeDocumentMoniker": "Features\\PageObjectModel.feature",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\PageObjectModel.feature",
-              "RelativeToolTip": "Features\\PageObjectModel.feature",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-05-16T05:10:27.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DataTableDataDrivenTestStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\DataTableDataDrivenTestStepDefinitions.cs",
-              "RelativeDocumentMoniker": "StepDefinitions\\DataTableDataDrivenTestStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\DataTableDataDrivenTestStepDefinitions.cs",
-              "RelativeToolTip": "StepDefinitions\\DataTableDataDrivenTestStepDefinitions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:53:04.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "YoutubeSearchFeature.feature",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\YoutubeSearchFeature.feature",
-              "RelativeDocumentMoniker": "Features\\YoutubeSearchFeature.feature",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\YoutubeSearchFeature.feature",
-              "RelativeToolTip": "Features\\YoutubeSearchFeature.feature",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-05-14T18:12:35.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DataDrivenTestStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\DataDrivenTestStepDefinitions.cs",
-              "RelativeDocumentMoniker": "StepDefinitions\\DataDrivenTestStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\DataDrivenTestStepDefinitions.cs",
-              "RelativeToolTip": "StepDefinitions\\DataDrivenTestStepDefinitions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T13:16:06.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ExamplesDataDrivenTest.feature",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\ExamplesDataDrivenTest.feature",
-              "RelativeDocumentMoniker": "Features\\ExamplesDataDrivenTest.feature",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\ExamplesDataDrivenTest.feature",
-              "RelativeToolTip": "Features\\ExamplesDataDrivenTest.feature",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-05-16T04:41:18.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "YoutubeSearchFeatureStepDefinitions.cs",
               "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\YoutubeSearchFeatureStepDefinitions.cs",
               "RelativeDocumentMoniker": "StepDefinitions\\YoutubeSearchFeatureStepDefinitions.cs",
               "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\YoutubeSearchFeatureStepDefinitions.cs",
               "RelativeToolTip": "StepDefinitions\\YoutubeSearchFeatureStepDefinitions.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCsAAABbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T18:16:07.225Z"
+              "WhenOpened": "2024-05-14T18:16:07.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ExamplesDataDrivenTestStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\ExamplesDataDrivenTestStepDefinitions.cs",
-              "RelativeDocumentMoniker": "StepDefinitions\\ExamplesDataDrivenTestStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\ExamplesDataDrivenTestStepDefinitions.cs",
-              "RelativeToolTip": "StepDefinitions\\ExamplesDataDrivenTestStepDefinitions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:44:48.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DataTableDataDrivenTesting.feature",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\DataTableDataDrivenTesting.feature",
-              "RelativeDocumentMoniker": "Features\\DataTableDataDrivenTesting.feature",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\DataTableDataDrivenTesting.feature",
-              "RelativeToolTip": "Features\\DataTableDataDrivenTesting.feature",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-05-16T04:50:29.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "DataDrivenTest.feature",
               "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\DataDrivenTest.feature",
               "RelativeDocumentMoniker": "Features\\DataDrivenTest.feature",
@@ -267,55 +119,218 @@
               "RelativeToolTip": "Features\\DataDrivenTest.feature",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-05-15T13:13:42.448Z"
+              "WhenOpened": "2024-05-15T13:13:42.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Calculator.feature",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\Calculator.feature",
-              "RelativeDocumentMoniker": "Features\\Calculator.feature",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\Calculator.feature",
-              "RelativeToolTip": "Features\\Calculator.feature",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-05-15T13:10:00.034Z"
+              "DocumentIndex": 3,
+              "Title": "DataDrivenTestStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\DataDrivenTestStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\DataDrivenTestStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\DataDrivenTestStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\DataDrivenTestStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:16:06.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
               "Title": "Hooks.cs",
               "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Hooks\\Hooks.cs",
               "RelativeDocumentMoniker": "Hooks\\Hooks.cs",
               "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Hooks\\Hooks.cs",
               "RelativeToolTip": "Hooks\\Hooks.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA1wGcAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T04:12:47.462Z"
+              "WhenOpened": "2024-05-15T04:12:47.462Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 7,
               "Title": "ExtentReport.cs",
               "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Utility\\ExtentReport.cs",
               "RelativeDocumentMoniker": "Utility\\ExtentReport.cs",
               "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Utility\\ExtentReport.cs",
               "RelativeToolTip": "Utility\\ExtentReport.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAAA2AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T04:33:17.95Z"
+              "WhenOpened": "2024-05-15T04:33:17.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageObjectModelStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\PageObjectModelStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\PageObjectModelStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\PageObjectModelStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\PageObjectModelStepDefinitions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:13:49.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchPage.cs",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\PageObject\\SearchPage.cs",
+              "RelativeDocumentMoniker": "PageObject\\SearchPage.cs",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\PageObject\\SearchPage.cs",
+              "RelativeToolTip": "PageObject\\SearchPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:17:17.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultPage.cs",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\PageObject\\ResultPage.cs",
+              "RelativeDocumentMoniker": "PageObject\\ResultPage.cs",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\PageObject\\ResultPage.cs",
+              "RelativeToolTip": "PageObject\\ResultPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:19:47.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataTableDataDrivenTestStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\DataTableDataDrivenTestStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\DataTableDataDrivenTestStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\DataTableDataDrivenTestStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\DataTableDataDrivenTestStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T04:53:04.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChannelPage.cs",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\PageObject\\ChannelPage.cs",
+              "RelativeDocumentMoniker": "PageObject\\ChannelPage.cs",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\PageObject\\ChannelPage.cs",
+              "RelativeToolTip": "PageObject\\ChannelPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:20:00.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExamplesDataDrivenTestStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\ExamplesDataDrivenTestStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\ExamplesDataDrivenTestStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\ExamplesDataDrivenTestStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\ExamplesDataDrivenTestStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T04:44:48.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "ImplicitUsings.cs",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\ImplicitUsings.cs",
+              "RelativeToolTip": "ImplicitUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:31:44.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PageObjectModel.feature",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\PageObjectModel.feature",
+              "RelativeDocumentMoniker": "Features\\PageObjectModel.feature",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\PageObjectModel.feature",
+              "RelativeToolTip": "Features\\PageObjectModel.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-16T05:10:27.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "YoutubeSearchFeature.feature",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\YoutubeSearchFeature.feature",
+              "RelativeDocumentMoniker": "Features\\YoutubeSearchFeature.feature",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\YoutubeSearchFeature.feature",
+              "RelativeToolTip": "Features\\YoutubeSearchFeature.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-14T18:12:35.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExamplesDataDrivenTest.feature",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\ExamplesDataDrivenTest.feature",
+              "RelativeDocumentMoniker": "Features\\ExamplesDataDrivenTest.feature",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\ExamplesDataDrivenTest.feature",
+              "RelativeToolTip": "Features\\ExamplesDataDrivenTest.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-16T04:41:18.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataTableDataDrivenTesting.feature",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\DataTableDataDrivenTesting.feature",
+              "RelativeDocumentMoniker": "Features\\DataTableDataDrivenTesting.feature",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\Features\\DataTableDataDrivenTesting.feature",
+              "RelativeToolTip": "Features\\DataTableDataDrivenTesting.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-16T04:50:29.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "CalculatorStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\CalculatorStepDefinitions.cs",
-              "RelativeDocumentMoniker": "StepDefinitions\\CalculatorStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\StepDefinitions\\CalculatorStepDefinitions.cs",
-              "RelativeToolTip": "StepDefinitions\\CalculatorStepDefinitions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T18:15:22.965Z"
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-16T12:18:34.102Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpecFlow_mvpForUITests.csproj",
+              "DocumentMoniker": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\SpecFlow_mvpForUITests.csproj",
+              "RelativeDocumentMoniker": "SpecFlow_mvpForUITests.csproj",
+              "ToolTip": "C:\\Users\\Iustin\\source\\repos\\C-UI-Automation-Framework-MVP\\SpecFlow_mvpForUITests.csproj",
+              "RelativeToolTip": "SpecFlow_mvpForUITests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T05:16:31.618Z"
             }
           ]
         }
