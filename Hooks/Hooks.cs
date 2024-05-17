@@ -3,9 +3,7 @@ using AventStack.ExtentReports.Gherkin.Model;
 using BoDi;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.DevTools.V122.Browser;
 using SpecFlow_mvpForUITests.Utility;
-using TechTalk.SpecFlow;
 
 namespace SpecFlow_mvpForUITests.Hooks
 {
@@ -59,7 +57,9 @@ namespace SpecFlow_mvpForUITests.Hooks
             IWebDriver driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
         
-            _container.RegisterInstanceAs<IWebDriver>(driver); //this line is registering an instance of a web driver with a dependency injection container, making it available for use throughout the application.
+            _container.RegisterInstanceAs<IWebDriver>(driver); //this line is registering an instance of a web driver
+                                                               //with a dependency injection container, making it available for use
+                                                               //throughout the application.
         
             _scenario = _feature.CreateNode<Scenario>(scenarioContext.ScenarioInfo.Title);
         }
@@ -67,7 +67,8 @@ namespace SpecFlow_mvpForUITests.Hooks
         [AfterScenario]
         public void AfterScenario()
         {
-            var driver = _container.Resolve<IWebDriver>();  // this line is retrieving an instance of a web driver from the dependency injection container
+            var driver = _container.Resolve<IWebDriver>();  // this line is retrieving an instance of a web driver from the
+                                                            // dependency injection container
                                                             // and assigning it to the driver variable for further use in the application
 
             if (driver != null)
