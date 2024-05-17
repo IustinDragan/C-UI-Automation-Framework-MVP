@@ -1,10 +1,4 @@
 ﻿using OpenQA.Selenium;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace SpecFlow_mvpForUITests.PageObject
 {
@@ -21,7 +15,9 @@ namespace SpecFlow_mvpForUITests.PageObject
         //By channelName = By.PartialLinkText("@EnglishSpeeches");
         //By channelName = By.LinkText("@EnglishSpeeches");
         //By channelName = By.XPath("//*[@id='main-link']");
-        By channelName = By.Id("main-link");
+        //By channelName = By.Id("main-link");
+        By channelName = By.XPath("//div[@id='info-section']//a[@id='main-link']");
+        
 
         public ChannelPage clickOnChannel()
         {
